@@ -4,7 +4,7 @@ description: Build rapid professional rapport using Dale Carnegie's Six Ways to 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4553
+  version: 1.0.4554
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - name-and-interest-protocol
